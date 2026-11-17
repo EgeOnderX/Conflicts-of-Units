@@ -4,7 +4,7 @@ A lightweight, zero-dependency browser-based grand strategy and wargame built wi
 
 ---
 
-
+<img width="1916" height="943" alt="image" src="https://github.com/user-attachments/assets/d989fa19-575b-4d6a-a665-40e3a93ef927" />
 
 
 ---
